@@ -1,0 +1,2 @@
+# spoorthiaz
+spoorthi azure repository
